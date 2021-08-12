@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tonytverma
 - 👀 I’m interested in web development and 
      web design
-- 🌱 I’m currently java
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on web 
      development and web design
 - 📫 7062666610 it's my number
